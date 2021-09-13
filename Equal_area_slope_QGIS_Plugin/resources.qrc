@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/EA_Slope" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
